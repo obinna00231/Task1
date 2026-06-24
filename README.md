@@ -44,7 +44,7 @@ Performance Summaries: Aggregated sales performance tracking across diverse prod
 
 ### Uncleaned dataset for Project 1
 
-![alt text]
+![alt text](https://github.com/obinna00231/Task1/blob/b812065319c4ec28076ce945f7a792e15d300318/decodelab%20project1/uncleaned%20data.PNG)
 
 ### Cleaned dataset for Project 1
 
